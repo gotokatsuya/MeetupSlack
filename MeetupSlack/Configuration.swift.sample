@@ -1,0 +1,13 @@
+//
+//  Configuration.swift.sample.swift
+//  MeetupSlack
+//
+//  Created by goka on 2016/05/26.
+//  Copyright © 2016年 goka. All rights reserved.
+//
+
+//
+// Slack configuration
+//
+let SLACK_TOKEN = "hoge"
+let SLACK_CHANNEL_ID = "hoge"
